@@ -1,0 +1,13 @@
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinFormsUI.csproj.AssemblyReference.cache
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinFormsUI.Form1.resources
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinFormsUI.Properties.Resources.resources
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinFormsUI.csproj.GenerateResource.cache
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\bin\Debug\Atm.WinFormsUI.exe.config
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\bin\Debug\Atm.WinFormsUI.exe
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\bin\Debug\Atm.WinFormsUI.pdb
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinF.04822120.Up2Date
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinFormsUI.exe
+C:\Users\wndws3\source\repos\Atm.WinFormsUI\Atm.WinFormsUI\obj\Debug\Atm.WinFormsUI.pdb

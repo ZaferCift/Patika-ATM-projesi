@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wndws3\\source\\repos\\Atm.WinFormsUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5BB693-821F-44CE-B2FC-A87F874B459C}|Atm.WinFormsUI\\Atm.WinFormsUI.csproj|c:\\users\\wndws3\\source\\repos\\atm.winformsui\\atm.winformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E5BB693-821F-44CE-B2FC-A87F874B459C}|Atm.WinFormsUI\\Atm.WinFormsUI.csproj|solutionrelative:atm.winformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wndws3\\source\\repos\\Atm.WinFormsUI\\Atm.WinFormsUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Atm.WinFormsUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\wndws3\\source\\repos\\Atm.WinFormsUI\\Atm.WinFormsUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Atm.WinFormsUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:19:54.002Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
